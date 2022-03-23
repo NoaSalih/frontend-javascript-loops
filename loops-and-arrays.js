@@ -45,7 +45,6 @@ for (let i = 0; i < numbers.length; i++) {
 }
 console.log(numbers);
 
-
 // ==========================================
 // Opdracht 3
 // Schrijf een script dat voor de maat van ieder vierkant in onderstaande array het volume uitrekent.
